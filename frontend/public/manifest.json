@@ -1,0 +1,15 @@
+{
+    "short_name": "Civicall",
+    "name": "Civicall - Community Platform",
+    "icons": [
+      {
+        "src": "logo/civicall-logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#2563eb",
+    "background_color": "#ffffff"
+  }
